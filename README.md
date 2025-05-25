@@ -53,3 +53,7 @@ Download the ZIP file and extract all contents to a local folder.
 Open RStudio, then open the app.R file in the root directory.
 
 Install all required packages and start the app by clicking "Run App" in R Studio.
+
+
+NB: Link to video explanation of project:
+https://drive.google.com/file/d/1fZJNgll28dcxxmJaoVe5pZeCEktJH0IT/view?usp=sharing
